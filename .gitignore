@@ -22,3 +22,4 @@ external_topics/time_series_forecasting/.ipynb_checkpoints/time_series_basics-ch
 external_topics/time_series_forecasting/.ipynb_checkpoints/time_series_sample1-checkpoint.ipynb
 external_topics/web_scraping/.ipynb_checkpoints/practice_beutifulSoup-checkpoint.ipynb
 external_topics/web_scraping/.ipynb_checkpoints/practice_requests-checkpoint.ipynb
+external_topics/wandb sample/*
