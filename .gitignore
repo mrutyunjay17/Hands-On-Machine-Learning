@@ -25,3 +25,4 @@ external_topics/web_scraping/.ipynb_checkpoints/practice_requests-checkpoint.ipy
 external_topics/wandb sample/*
 external_topics/time_series_forecasting/.ipynb_checkpoints/basic_lstm-checkpoint.ipynb
 other_books/practical_stats_for_ds/.ipynb_checkpoints/1_exploratory_data_analysis-checkpoint.ipynb
+other_books/practical_stats_for_ds/.ipynb_checkpoints/2_ data_and_sampling_distributions-checkpoint.ipynb
