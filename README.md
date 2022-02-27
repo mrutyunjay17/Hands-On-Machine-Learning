@@ -1,5 +1,5 @@
 # Hands-On Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems
-## Notes and Practice Code: 
+## Textbook Notes and Practice Code: 
  This repository will have all of my notes and practice codes from the book - "Hands on Machine Learning with Scikit-Learn, Keras and Tensorflow - Aurelien Geron" 
 
 
